@@ -101,8 +101,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/forabbie/forabbie/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/forabbie/forabbie/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <p align="left">Last edited on: September 01, 2023</p>
