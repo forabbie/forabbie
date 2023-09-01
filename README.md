@@ -97,11 +97,12 @@
 
 ###
 
-<h3 align="left">Witness as a snake 🐍 devours my contribution graph!</h3>
+<!-- <h3 align="left">Witness as a snake 🐍 devours my contribution graph!</h3> -->
 
 ###
 
-![Snake animation](https://github.com/forabbie/forabbie/blob/output/github-contribution-grid-snake.svg)
+<!-- <img src="https://raw.githubusercontent.com/forabbie/forabbie/output/snake.svg" alt="Snake animation" /> -->
+
 ###
 
 <p align="left">Last edited on: September 01, 2023</p>
