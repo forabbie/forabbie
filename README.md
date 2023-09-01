@@ -105,6 +105,6 @@
 
 ###
 
-<p align="left">Last edited on: September 01, 2023</p>
+<h6 align="left">Last edited on: September 01, 2023</h6>
 
 ###
