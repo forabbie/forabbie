@@ -6,7 +6,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Run daily
+      # every 6 hours
+    - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -21,10 +22,6 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16' # Specify Node.js 16
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
@@ -42,7 +39,7 @@ jobs:
 
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           branch: main
