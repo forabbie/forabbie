@@ -109,7 +109,7 @@
 
 ###
 
-![snake gif](https://github.com/Don-PhDev/Don-PhDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/forabbie/forabbie/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
