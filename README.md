@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Abbie  and I hail from Philippines.<br><br>- 🔭 Professionally, I'm engaged in web development.<br>- 📚 Presently, I'm enrolled in a bootcamp focused on mastering React.js and Ruby on Rails.<br>- 💬 Ask me about Vue.js.<br>- ⚡ During my free time,  I cherish spending quality moments with friends, yet I also appreciate the art of solitude, often indulging in drawing or admiring creative content on Instagram.</p>
+<p align="left">I'm Abbie  and I hail from Philippines.<br><br>- 🔭 Professionally, I'm engaged in web development.<br>- 📚 Presently, I'm enrolled in a bootcamp focused on mastering React.js and Ruby on Rails.<br>- 💬 Ask me about Frontend development.<br>- ⚡ During my free time,  I cherish spending quality moments with friends, yet I also appreciate the art of solitude, often indulging in drawing or admiring creative content on Instagram.</p>
 
 ###
 
@@ -105,11 +105,11 @@
 
 ###
 
-<!-- <h3 align="left">Witness as a snake 🐍 devours my contribution graph!</h3> -->
+<h3 align="left">Witness as a snake 🐍 devours my contribution graph!</h3>
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/forabbie/forabbie/output/snake.svg" alt="Snake animation" /> -->
+![snake gif](https://github.com/Don-PhDev/Don-PhDev/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
