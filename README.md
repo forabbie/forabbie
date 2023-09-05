@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"  />
+  <img height="150" src="https://github.com/forabbie/forabbie/blob/main/assets/images/git-header.svg"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
